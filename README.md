@@ -8,7 +8,14 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<!---
+## 📫 Como me encontrar
+
+- Email: [seuemail@example.com](mailto:seuemail@example.com)
+- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+
+---
 
 <!---
 creatives123/creatives123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
