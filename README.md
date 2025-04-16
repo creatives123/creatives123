@@ -1,3 +1,9 @@
+<!---
+# 👋 Olá, eu sou o Alexandre Torres
+
+🎓 Licenciado em Informática e Gestão de Empresas
+🎓 Estudante actual do Mestrado em Tecnologias Digitais para o Negócio.
+--->
 - 👋 Hi, I’m @creatives123
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
