@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Alexandre Torres — OSS Assurance Expert</title>
+  <desc id="desc">Abstract service-assurance signal path moving from operational signals to reliable services.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07131f"/>
+      <stop offset="0.58" stop-color="#0a2335"/>
+      <stop offset="1" stop-color="#103c51"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#46d7c7"/>
+      <stop offset="0.55" stop-color="#64b5f6"/>
+      <stop offset="1" stop-color="#9cc7ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#46d7c7" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#46d7c7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a6c7dc" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1100" cy="170" r="240" fill="url(#glow)"/>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif">
+    <rect x="72" y="55" width="218" height="34" rx="17" fill="#46d7c7" fill-opacity="0.13" stroke="#46d7c7" stroke-opacity="0.55"/>
+    <text x="181" y="77" text-anchor="middle" fill="#7ce7dc" font-size="13" font-weight="700" letter-spacing="2.1">OSS · SERVICE ASSURANCE</text>
+
+    <text x="72" y="157" fill="#f4f8fb" font-size="54" font-weight="700" letter-spacing="0.4">Alexandre Torres</text>
+    <text x="74" y="202" fill="#b8cfdd" font-size="24" font-weight="500">OSS Assurance Expert</text>
+    <text x="74" y="267" fill="#e1edf4" font-size="21" font-weight="600" letter-spacing="0.6">SIGNALS  →  INSIGHT  →  ACTION  →  RELIABILITY</text>
+    <rect x="73" y="291" width="420" height="3" rx="1.5" fill="url(#signal)"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 735 218 L 790 218 L 817 147 L 860 274 L 898 111 L 931 218 L 985 218"
+          stroke="#294f65" stroke-width="12" opacity="0.45"/>
+    <path d="M 735 218 L 790 218 L 817 147 L 860 274 L 898 111 L 931 218 L 985 218"
+          stroke="url(#signal)" stroke-width="4" filter="url(#softGlow)"/>
+    <path d="M 985 218 C 1030 218 1035 151 1080 151 C 1124 151 1131 218 1175 218"
+          stroke="#64b5f6" stroke-width="4" opacity="0.9"/>
+  </g>
+
+  <g fill="#07131f" stroke="#7ce7dc" stroke-width="3">
+    <circle cx="735" cy="218" r="9"/>
+    <circle cx="985" cy="218" r="9"/>
+    <circle cx="1175" cy="218" r="9"/>
+  </g>
+  <g fill="#cbeef2" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">
+    <text x="735" y="244" text-anchor="middle">OBSERVE</text>
+    <text x="985" y="244" text-anchor="middle">ASSURE</text>
+    <text x="1175" y="244" text-anchor="middle">IMPROVE</text>
+  </g>
+</svg>

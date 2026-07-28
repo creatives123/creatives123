@@ -1,6 +1,8 @@
-# Alexandre Torres
+![Alexandre Torres — OSS Assurance Expert](./assets/profile-banner.svg)
 
-**OSS Assurance Expert | Service Assurance · Operational Automation · IT Operations**
+> **I turn complex operational signals into reliable services.**
+>
+> OSS Assurance · Operational Automation · IT Operations
 
 I work at the intersection of service-critical telecommunications operations and IT
 service assurance. My background spans network monitoring, second-line incident
