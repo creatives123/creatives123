@@ -1,23 +1,43 @@
-<!---
-# 👋 Olá, eu sou o Alexandre Torres
+# Alexandre Torres
 
-🎓 Licenciado em Informática e Gestão de Empresas
-🎓 Estudante actual do Mestrado em Tecnologias Digitais para o Negócio.
---->
-- 👋 Hi, I’m @creatives123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+**OSS Assurance Expert | Service Assurance · Operational Automation · IT Operations**
 
-<!---
-## 📫 Como me encontrar
+I work at the intersection of service-critical telecommunications operations and IT
+service assurance. My background spans network monitoring, second-line incident
+analysis, troubleshooting, process improvement, operational automation and project
+delivery across international environments.
 
-- Email: [seuemail@example.com](mailto:seuemail@example.com)
-- LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+## Focus areas
 
----
+- OSS and service assurance
+- Incident, event and alarm analysis
+- Operational automation with Python, SQL and Bash
+- Monitoring, troubleshooting and service continuity
+- Linux, operational data analysis and internal tooling
+- Runbooks, technical documentation and cross-functional delivery
 
-<!---
-creatives123/creatives123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Selected public work
+
+- [Proxmox Service Notes](https://github.com/creatives123/proxmox-service-notes) — Bash
+  tooling for generating useful operational notes for Proxmox VMs and containers.
+  Currently being hardened with reproducible examples, tests and CI.
+- [Concurrent and Distributed Game — Academic Archive](https://github.com/creatives123/concurrent-distributed-game-academic-archive)
+  — reviewed two-person ISCTE group project demonstrating concurrency, coordinated
+  state management and TCP client/server communication in Java.
+- [Genetic Algorithm for Nurse Scheduling — Academic Archive](https://github.com/creatives123/genetic-algorithm-nurse-scheduling-academic-archive)
+  — reviewed five-person ISCTE group project demonstrating reproducible Python,
+  constrained optimisation, automated tests and CI.
+
+Academic repositories are preserved as read-only group archives with explicit
+attribution and publication boundaries.
+
+## Working principles
+
+- Build tools around real operational problems and clear failure modes.
+- Prefer reproducible demonstrations, automated checks and useful documentation.
+- Keep professional operational details at a high level to respect confidentiality.
+- Use synthetic or non-sensitive data in public technical work.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/alexandre-torres-0b90a140/)
