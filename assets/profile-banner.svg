@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
   <title id="title">Alexandre Torres — OSS Assurance Expert</title>
-  <desc id="desc">Abstract service-assurance signal path moving from operational signals to reliable services.</desc>
+  <desc id="desc">AT brand mark and a service-assurance signal path moving from observation to improvement.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -31,35 +31,39 @@
 
   <rect width="1280" height="360" rx="24" fill="url(#background)"/>
   <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
-  <circle cx="1100" cy="170" r="240" fill="url(#glow)"/>
+  <circle cx="1095" cy="170" r="250" fill="url(#glow)"/>
 
-  <g font-family="Segoe UI, Inter, Arial, sans-serif">
-    <rect x="72" y="55" width="218" height="34" rx="17" fill="#46d7c7" fill-opacity="0.13" stroke="#46d7c7" stroke-opacity="0.55"/>
-    <text x="181" y="77" text-anchor="middle" fill="#7ce7dc" font-size="13" font-weight="700" letter-spacing="2.1">OSS · SERVICE ASSURANCE</text>
+  <g transform="translate(52 48) scale(.55)">
+    <path fill="#f4f8fb" fill-rule="evenodd" clip-rule="evenodd"
+          d="M18 224 96 32h40l78 192h-48l-19-50H84l-18 50H18Zm81-88h34l-17-48-17 48Z"/>
+    <path fill="#46d7c7" d="M128 32h110v44h-30v148h-44V76h-36V32Z"/>
+  </g>
 
-    <text x="72" y="157" fill="#f4f8fb" font-size="54" font-weight="700" letter-spacing="0.4">Alexandre Torres</text>
-    <text x="74" y="202" fill="#b8cfdd" font-size="24" font-weight="500">OSS Assurance Expert</text>
-    <text x="74" y="267" fill="#e1edf4" font-size="21" font-weight="600" letter-spacing="0.6">SIGNALS  →  INSIGHT  →  ACTION  →  RELIABILITY</text>
-    <rect x="73" y="291" width="420" height="3" rx="1.5" fill="url(#signal)"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="220" y="82" fill="#7ce7dc" font-size="13" font-weight="700" letter-spacing="2.1">SERVICE ASSURANCE · OPERATIONS · AUTOMATION</text>
+    <text x="218" y="151" fill="#f4f8fb" font-size="52" font-weight="700" letter-spacing="0.3">Alexandre Torres</text>
+    <text x="220" y="194" fill="#b8cfdd" font-size="24" font-weight="500">OSS Assurance Expert</text>
+    <text x="220" y="264" fill="#e1edf4" font-size="19" font-weight="700" letter-spacing="0.8">SIGNALS  →  INSIGHT  →  ACTION  →  RELIABILITY</text>
+    <rect x="220" y="287" width="410" height="3" rx="1.5" fill="url(#signal)"/>
   </g>
 
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M 735 218 L 790 218 L 817 147 L 860 274 L 898 111 L 931 218 L 985 218"
+    <path d="M 760 219 L 808 219 L 836 148 L 878 274 L 916 111 L 950 219 L 993 219"
           stroke="#294f65" stroke-width="12" opacity="0.45"/>
-    <path d="M 735 218 L 790 218 L 817 147 L 860 274 L 898 111 L 931 218 L 985 218"
+    <path d="M 760 219 L 808 219 L 836 148 L 878 274 L 916 111 L 950 219 L 993 219"
           stroke="url(#signal)" stroke-width="4" filter="url(#softGlow)"/>
-    <path d="M 985 218 C 1030 218 1035 151 1080 151 C 1124 151 1131 218 1175 218"
+    <path d="M 993 219 C 1038 219 1043 152 1088 152 C 1133 152 1139 219 1183 219"
           stroke="#64b5f6" stroke-width="4" opacity="0.9"/>
   </g>
 
   <g fill="#07131f" stroke="#7ce7dc" stroke-width="3">
-    <circle cx="735" cy="218" r="9"/>
-    <circle cx="985" cy="218" r="9"/>
-    <circle cx="1175" cy="218" r="9"/>
+    <circle cx="760" cy="219" r="9"/>
+    <circle cx="993" cy="219" r="9"/>
+    <circle cx="1183" cy="219" r="9"/>
   </g>
   <g fill="#cbeef2" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">
-    <text x="735" y="244" text-anchor="middle">OBSERVE</text>
-    <text x="985" y="244" text-anchor="middle">ASSURE</text>
-    <text x="1175" y="244" text-anchor="middle">IMPROVE</text>
+    <text x="760" y="246" text-anchor="middle">OBSERVE</text>
+    <text x="993" y="246" text-anchor="middle">ASSURE</text>
+    <text x="1183" y="246" text-anchor="middle">IMPROVE</text>
   </g>
 </svg>
