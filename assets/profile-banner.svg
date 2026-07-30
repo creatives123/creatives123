@@ -36,7 +36,8 @@
   <g transform="translate(52 48) scale(.55)">
     <path fill="#f4f8fb" fill-rule="evenodd" clip-rule="evenodd"
           d="M18 224 96 32h40l78 192h-48l-19-50H84l-18 50H18Zm81-88h34l-17-48-17 48Z"/>
-    <path fill="#46d7c7" d="M128 32h110v44h-30v148h-44V76h-36V32Z"/>
+    <path fill="#f4f8fb" d="M128 32h110v44H128V32Z"/>
+    <path fill="#46d7c7" d="M174 76h44v148h-44V76Z"/>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
