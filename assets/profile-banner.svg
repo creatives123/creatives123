@@ -33,11 +33,9 @@
   <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
   <circle cx="1095" cy="170" r="250" fill="url(#glow)"/>
 
-  <g transform="translate(52 48) scale(.55)">
-    <path fill="#f4f8fb" fill-rule="evenodd" clip-rule="evenodd"
-          d="M18 224 96 32h40l78 192h-48l-19-50H84l-18 50H18Zm81-88h34l-17-48-17 48Z"/>
-    <path fill="#f4f8fb" d="M128 32h110v44H128V32Z"/>
-    <path fill="#46d7c7" d="M174 76h44v148h-44V76Z"/>
+  <g transform="translate(52 54) scale(.34)">
+    <path fill="#f4f8fb" d="M14 272 129 34 188 35 301 272 232 272 157 112 81 272Z"/>
+    <path fill="#46d7c7" d="M208 34H432V93H368V272H302V93H237Z"/>
   </g>
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif">
