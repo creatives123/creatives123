@@ -20,13 +20,13 @@ delivery across international environments.
 
 ## Selected public work
 
-- [Proxmox Service Notes](https://github.com/creatives123/proxmox-service-notes) — Bash
+- [Proxmox Service Notes](https://github.com/alexandretorres17/proxmox-service-notes) — Bash
   tooling for generating useful operational notes for Proxmox VMs and containers.
   Currently being hardened with reproducible examples, tests and CI.
-- [Concurrent and Distributed Game — Academic Archive](https://github.com/creatives123/concurrent-distributed-game-academic-archive)
+- [Concurrent and Distributed Game — Academic Archive](https://github.com/alexandretorres17/concurrent-distributed-game-academic-archive)
   — reviewed two-person ISCTE group project demonstrating concurrency, coordinated
   state management and TCP client/server communication in Java.
-- [Genetic Algorithm for Nurse Scheduling — Academic Archive](https://github.com/creatives123/genetic-algorithm-nurse-scheduling-academic-archive)
+- [Genetic Algorithm for Nurse Scheduling — Academic Archive](https://github.com/alexandretorres17/genetic-algorithm-nurse-scheduling-academic-archive)
   — reviewed five-person ISCTE group project demonstrating reproducible Python,
   constrained optimisation, automated tests and CI.
 
