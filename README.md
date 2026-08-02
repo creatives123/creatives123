@@ -24,7 +24,8 @@ I design and operate [BaluLabs](https://github.com/balulabs17), a private
 Proxmox-based homelab used to build, automate and recover self-hosted
 infrastructure. It provides hands-on work with Linux virtual machines and LXC
 containers, Docker and Portainer, Traefik service routing, DNS and TLS, service
-monitoring, backups and operational documentation.
+monitoring, Synology-backed centralised storage, backup and recovery workflows,
+and operational documentation.
 
 The live infrastructure remains private. Independently developed or sanitised
 tools are published when they can be shared safely and reproduced without
@@ -36,12 +37,15 @@ exposing the real environment.
   tooling for generating useful operational notes for Proxmox VMs and containers.
   Includes reproducible examples, dry-run safety, 18 automated tests, ShellCheck
   and a successful continuous-integration workflow.
+- [Distributed Experiment Monitoring Platform — Academic Archive](https://github.com/alexandretorres17/distributed-experiment-monitoring-platform-academic-archive)
+  — reviewed six-person ISCTE group project integrating simulated sensor ingestion,
+  experiment monitoring and alerting across MQTT, MongoDB, MariaDB, Java and PHP.
+  Its verification workflow builds the Java services, checks PHP syntax and audits
+  the publication boundary.
 - [Concurrent and Distributed Game — Academic Archive](https://github.com/alexandretorres17/concurrent-distributed-game-academic-archive)
   — reviewed two-person ISCTE group project demonstrating concurrency, coordinated
-  state management and TCP client/server communication in Java.
-- [Genetic Algorithm for Nurse Scheduling — Academic Archive](https://github.com/alexandretorres17/genetic-algorithm-nurse-scheduling-academic-archive)
-  — reviewed five-person ISCTE group project demonstrating reproducible Python,
-  constrained optimisation, automated tests and CI.
+  state management and TCP client/server communication in Java, supported by unit
+  and integration tests and continuous integration.
 
 Academic repositories are preserved as read-only group archives with explicit
 attribution and publication boundaries.
