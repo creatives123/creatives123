@@ -18,6 +18,18 @@ delivery across international environments.
 - Linux, operational data analysis and internal tooling
 - Runbooks, technical documentation and cross-functional delivery
 
+## Operational lab
+
+I design and operate [BaluLabs](https://github.com/balulabs17), a private
+Proxmox-based homelab used to build, automate and recover self-hosted
+infrastructure. It provides hands-on work with Linux virtual machines and LXC
+containers, Docker and Portainer, Traefik service routing, DNS and TLS, service
+monitoring, backups and operational documentation.
+
+The live infrastructure remains private. Independently developed or sanitised
+tools are published when they can be shared safely and reproduced without
+exposing the real environment.
+
 ## Selected public work
 
 - [Proxmox Service Notes](https://github.com/alexandretorres17/proxmox-service-notes) — Bash
