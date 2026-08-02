@@ -1,6 +1,6 @@
 ![Alexandre Torres — OSS Assurance Expert](./assets/profile-banner.svg)
 
-> **I turn complex operational signals into reliable services.**
+> **I turn operational complexity into reliable services.**
 >
 > OSS Assurance · Operational Automation · IT Operations
 
