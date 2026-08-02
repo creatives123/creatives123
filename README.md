@@ -22,7 +22,8 @@ delivery across international environments.
 
 - [Proxmox Service Notes](https://github.com/alexandretorres17/proxmox-service-notes) — Bash
   tooling for generating useful operational notes for Proxmox VMs and containers.
-  Currently being hardened with reproducible examples, tests and CI.
+  Includes reproducible examples, dry-run safety, 18 automated tests, ShellCheck
+  and a successful continuous-integration workflow.
 - [Concurrent and Distributed Game — Academic Archive](https://github.com/alexandretorres17/concurrent-distributed-game-academic-archive)
   — reviewed two-person ISCTE group project demonstrating concurrency, coordinated
   state management and TCP client/server communication in Java.
