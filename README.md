@@ -46,6 +46,10 @@ exposing the real environment.
   — reviewed two-person ISCTE group project demonstrating concurrency, coordinated
   state management and TCP client/server communication in Java, supported by unit
   and integration tests and continuous integration.
+- [Personalized Schedule Builder — Academic Archive](https://github.com/alexandretorres17/personalized-schedule-builder-academic-archive)
+  — reviewed six-person ISCTE software-engineering group project demonstrating a
+  Java web application, timetable validation and a reproducible Maven workflow
+  with 55 automated tests, coverage verification and continuous integration.
 
 Academic repositories are preserved as read-only group archives with explicit
 attribution and publication boundaries.
